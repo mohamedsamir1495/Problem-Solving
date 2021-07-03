@@ -1,0 +1,3 @@
+D:/Technical Study/Problem Solving C++/mathematics/Prime Number Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Technical Study/Problem Solving C++/mathematics/Prime Number Test/cmake-build-debug/CMakeFiles/Prime_Number_Test.dir
+D:/Technical Study/Problem Solving C++/mathematics/Prime Number Test/cmake-build-debug/CMakeFiles/edit_cache.dir
